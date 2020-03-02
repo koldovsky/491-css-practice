@@ -54,14 +54,11 @@ header nav .top-menu a:hover {
     }
 }
 
-header div {
+header .banner {
     background-image: url(../img/baby-yoda.jpeg);
     background-position: center;
     background-size: cover;
     min-height: 500px;
-}
-
-header .banner {
     display: flex;
     justify-content: center;
     align-items: center;
